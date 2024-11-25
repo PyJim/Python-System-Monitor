@@ -1,4 +1,4 @@
-# Python System Monitoring Lab - README
+# Python System Monitoring Lab
 
 ## Introduction
 
